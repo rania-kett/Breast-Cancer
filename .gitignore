@@ -1,0 +1,7 @@
+Rapport/
+*.pdf
+*.zip
+scripts/ouvrir-bc-local.bat
+~$*
+__pycache__/
+.cursor/
